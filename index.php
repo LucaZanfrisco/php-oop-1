@@ -1,5 +1,4 @@
 <?php
-include __DIR__ . '/Models/movie.php';
 include __DIR__ . '/Database/db.php';
 require_once __DIR__ . '/functions.php';
 
